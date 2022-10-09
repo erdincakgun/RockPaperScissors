@@ -1,1 +1,1 @@
-# It's Cool Maaan!
+# Rock Paper Scissors!
